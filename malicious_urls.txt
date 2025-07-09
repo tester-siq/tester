@@ -1,3 +1,6 @@
+http://59.97.252.86:38598/bin.sh
+http://160.187.246.86/hiddenbin/boatnet.arm7
+http://220.158.234.135/x/vigor
 http://115.57.29.24:59692/i
 http://61.53.118.41:48592/i
 http://125.41.77.45:46082/bin.sh
@@ -28,3 +31,10 @@ https://bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.w3s.lin
 https://bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.w3s.link/test.jpg?137113af
 https://bitbucket.org/hgfjfgjsfsef/retrewqe/raw/5034a59c992f49e6755f3400ba13e0c534744f87/test.jpg?142344
 http://119.115.92.123:50795/bin.sh
+http://123.13.33.111:57603/bin.sh
+http://42.228.237.193:59681/i
+http://115.49.67.30:33514/bin.sh
+http://93.118.124.16:60214/bin.sh
+http://115.53.236.186:52641/i
+http://123.14.248.26:32899/bin.sh
+http://42.233.105.21:59607/bin.sh
