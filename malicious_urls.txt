@@ -8,3 +8,13 @@ http://219.157.63.116:40398/bin.sh
 http://182.127.110.126:35043/bin.sh
 http://125.45.57.59:34419/bin.sh
 http://117.209.92.9:43171/bin.sh
+http://60.23.139.42:52358/bin.sh
+http://182.113.14.99:56496/bin.sh
+http://119.185.162.199:39463/bin.sh
+http://117.209.86.79:33033/i
+http://176.46.157.32/files/458621298/R1XkoaB.exe
+http://82.29.164.99/systemcl/arm5
+http://82.29.164.99/systemcl/x86
+http://82.29.164.99/systemcl/mips
+http://82.29.164.99/c.sh
+http://82.29.164.99/systemcl/spc
