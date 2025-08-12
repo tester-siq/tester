@@ -1,5 +1,10 @@
+http://115.50.68.69:56308/bin.sh
+http://36.249.195.136:42217/bin.sh
 http://42.226.64.162:36903/i
 http://115.58.142.238:54687/i
 http://61.52.191.161:35656/bin.sh
 http://59.97.254.239:49690/bin.sh
 https://ser-tribune-require-bodies.trycloudflare.com/ver/tuts.wsh
+https://ser-tribune-require-bodies.trycloudflare.com/doc/DocumentInfo.pdf.lnk
+https://ser-tribune-require-bodies.trycloudflare.com/ver/fi.wsf
+https://ser-tribune-require-bodies.trycloudflare.com/vog.bat
